@@ -1,0 +1,10 @@
+{
+  "name": "CymbalMart Shopping Agent",
+  "description": "AI-powered shopping agent for CymbalMart converting host party intent into curated, budget-conscious grocery and party lists with smart portioning, private label savings, and 1-click checkout.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
